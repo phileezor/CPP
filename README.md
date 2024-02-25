@@ -1,2 +1,2 @@
 # CPP
- Concepts, Projects & More - but it's in C++
+Projects, Concepts & Practice - but it's all in C++
